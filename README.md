@@ -12,3 +12,4 @@ This is a learning project from [Build a Coworking Space Site](https://scrimba.c
 - position: fixed
 
 ### Continued development
+In the future, I want to fix how the website looks on bigger screens. That is something that I will try to do in the future.
